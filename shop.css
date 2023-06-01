@@ -7,6 +7,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 /*section1*/
 .box-container {
     display: flex;
@@ -36,12 +37,19 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+}
+
+.box-sec2 {
+    width: 100%;
 }
 
 .box-sec2 img {
-    width: 30%;
+    width: 100%
 }
 
 .box-sec2 h1 {
-    font-size: 100px
+    width: 100%;
+    padding: 5%;
 }
+
