@@ -414,7 +414,7 @@ html {
 /*wso*/
 @media screen and (max-width: 767px) {
     .wsp a {
-        display: flex;
+        display: none;
         justify-content: end;
     }
     
