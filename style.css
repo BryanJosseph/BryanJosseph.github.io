@@ -413,12 +413,8 @@ html {
 
 /*wso*/
 @media screen and (max-width: 767px) {
-    .wsp a {
-        display: none;
-        justify-content: end;
-    }
-    
-    .wsp a  img {
-        width: 20%;
+    .wsp a img {
+        visibility: hidden;
     }
 }
+
